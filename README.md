@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=UAsh35nRsfA
 -------------------------------------------------------------------
 
 INPUTS:
-I0.0 - Power. Starting up the hydraulic station.(Network 1)
+I0.0 - Power. Starting up the hydraulic station.(Network 1)<br>
 I0.1 - Start the program in automatic mode. (Network 11 - 12)
 I0.2 - Stop the program in automatic mode. Manual mode. (Network 19)
 I0.3 - Not involved *
