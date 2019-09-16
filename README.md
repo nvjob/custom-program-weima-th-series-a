@@ -1,21 +1,23 @@
 # Custom program for WEIMA TH Standard Series. A
 
 Attention!!!
+
 This is not an official program.
 For the program to function, all devices must be connected according to the inputs and outputs installed in the program.
 You must understand what you are doing.
 You must have knowledge of electrical engineering and technological processes.
 
-====================================================
+-------------------------------------------------------------------
 
 Features of the work.
+
 Automatic start, no preliminary preparation required.
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.
 No encoder is required at the press outlet.
 
 https://www.youtube.com/watch?v=UAsh35nRsfA
 
-====================================================
+-------------------------------------------------------------------
 
 INPUTS:
 I0.0 - Power. Starting up the hydraulic station.(Network 1)
@@ -34,7 +36,7 @@ I1.4 - Change in the operating time of the screw. Max. time.(Network 47 - 48) (T
 When I1.3 and I1.4 are not included this corresponds to the average time.(Network 45 - 46) (Three position switch.)
 I1.5 - (optional) Sensor for supplying material to the tank. It is installed at the right level in the tank, to automatically feed the material into the tank, to maintain the same amount of material in the tank.
 
-====================================================
+-------------------------------------------------------------------
 
 OUTPUTS:
 Q0.0 - The engine of the hydraulic power station (star-delta).
