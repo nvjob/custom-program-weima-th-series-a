@@ -20,6 +20,7 @@ https://www.youtube.com/watch?v=UAsh35nRsfA
 -------------------------------------------------------------------
 
 INPUTS:
+
 I0.0 - Power. Starting up the hydraulic station.(Network 1) <br>
 I0.1 - Start the program in automatic mode. (Network 11 - 12) <br>
 I0.2 - Stop the program in automatic mode. Manual mode. (Network 19) <br>
@@ -39,6 +40,7 @@ I1.5 - (optional) Sensor for supplying material to the tank. It is installed at 
 -------------------------------------------------------------------
 
 OUTPUTS:
+
 Q0.0 - The engine of the hydraulic power station (star-delta). <br>
 Q0.1 - Hydroelectric power station engine (star-delta). Main valve. <br>
 Q0.2 - Fan. <br>
