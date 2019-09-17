@@ -5,7 +5,8 @@
 This is not an official program.
 For the program to function, all devices must be connected according to the inputs and outputs installed in the program.<br>
 You must understand what you are doing.<br>
-You must have knowledge of electrical engineering and technological processes.
+You must have knowledge of electrical engineering and technological processes.<br>
+The program was written to restore the dead briquette press.
 
 -------------------------------------------------------------------
 
@@ -15,7 +16,11 @@ Automatic start, no preliminary preparation required.<br>
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.<br>
 No encoder is required at the press outlet.
 
+Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-b
+
 https://www.youtube.com/watch?v=UAsh35nRsfA
+
+![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-a/blob/master/Images/Briquette%20Press%20(3).jpg)
 
 -------------------------------------------------------------------
 
