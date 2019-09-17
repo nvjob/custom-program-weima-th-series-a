@@ -1,4 +1,4 @@
-# Custom program for WEIMA TH Standard Series. A
+# Custom program for WEIMA TH Standard Series (Briquette Press). A
 
 ### Attention!!!
 
