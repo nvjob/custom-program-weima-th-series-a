@@ -1,3 +1,7 @@
+Custom program for WEIMA TH Standard Series (Briquette Press). A
+
+====================================================
+
 Attention!!!
 This is not an official program.
 For the program to function, all devices must be connected according to the inputs and outputs installed in the program.
@@ -11,6 +15,7 @@ Automatic start, no preliminary preparation required.
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.
 No encoder is required at the press outlet.
 
+Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-b
 
 https://www.youtube.com/watch?v=UAsh35nRsfA
 
@@ -49,3 +54,6 @@ Q0.7 - Horizontal piston, valve, extends the piston.
 Q1.0 - Collet Piston.
 Q1.1 - The small engine of a hydraulic power station.
 Q2.1 - (optional) Auger for feeding sawdust into the tank.
+
+
+
