@@ -16,6 +16,8 @@ Automatic start, no preliminary preparation required.<br>
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.<br>
 No encoder is required at the press outlet.
 
+Program for another Weima briquette press - https://github.com/nvjob/custom-program-weima-th-series-b
+
 https://www.youtube.com/watch?v=UAsh35nRsfA
 
 ![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-a/blob/master/Images/Briquette%20Press%20(3).jpg)
