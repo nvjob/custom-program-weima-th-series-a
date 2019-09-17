@@ -5,7 +5,8 @@
 This is not an official program.
 For the program to function, all devices must be connected according to the inputs and outputs installed in the program.<br>
 You must understand what you are doing.<br>
-You must have knowledge of electrical engineering and technological processes.
+You must have knowledge of electrical engineering and technological processes.<br>
+The program was written to restore the dead briquette press.
 
 -------------------------------------------------------------------
 
