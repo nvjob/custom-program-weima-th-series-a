@@ -9,7 +9,7 @@ You must have knowledge of electrical engineering and technological processes.
 
 -------------------------------------------------------------------
 
-Features of the work.
+## Features of the work.
 
 Automatic start, no preliminary preparation required.
 When the press is clogged, self-cleaning occurs, after self-cleaning, work continues.
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=UAsh35nRsfA
 
 -------------------------------------------------------------------
 
-INPUTS:
+### INPUTS:
 
 I0.0 - Power. Starting up the hydraulic station.(Network 1) <br>
 I0.1 - Start the program in automatic mode. (Network 11 - 12) <br>
@@ -39,7 +39,7 @@ I1.5 - (optional) Sensor for supplying material to the tank. It is installed at 
 
 -------------------------------------------------------------------
 
-OUTPUTS:
+### OUTPUTS:
 
 Q0.0 - The engine of the hydraulic power station (star-delta). <br>
 Q0.1 - Hydroelectric power station engine (star-delta). Main valve. <br>
