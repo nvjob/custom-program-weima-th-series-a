@@ -56,3 +56,18 @@ Q0.7 - Horizontal piston, valve, extends the piston. <br>
 Q1.0 - Collet Piston. <br>
 Q1.1 - The small engine of a hydraulic power station. <br>
 Q2.1 - (optional) Auger for feeding sawdust into the tank.
+
+-------------------------------------------------------------------
+
+### Authors
+Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+
+### License
+GNU General Public License v3.0
+
+### Donate
+You can thank me by a voluntary donation. <br>
+ko_fi: https://ko-fi.com/nvjob_dev <br>
+liberapay: https://liberapay.com/nvjob <br>
+issuehunt: https://issuehunt.io/r/nvjob <br>
+paypal: https://paypal.me/nvjob
