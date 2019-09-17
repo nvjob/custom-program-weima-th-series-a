@@ -17,6 +17,8 @@ No encoder is required at the press outlet.
 
 https://www.youtube.com/watch?v=UAsh35nRsfA
 
+![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-a/blob/master/Images/Briquette%20Press%20(3).jpg)
+
 -------------------------------------------------------------------
 
 #### INPUTS:
