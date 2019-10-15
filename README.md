@@ -60,7 +60,7 @@ Q2.1 - (optional) Auger for feeding sawdust into the tank.
 -------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | https://twitter.com/nvjob
+Designed by #NVJOB Nicholas Veselov | https://nvjob.github.io
 
 ### License
 GNU General Public License v3.0
