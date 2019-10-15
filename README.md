@@ -20,7 +20,8 @@ Program for another Weima briquette press - https://github.com/nvjob/custom-prog
 
 https://www.youtube.com/watch?v=UAsh35nRsfA
 
-![GitHub Logo](https://github.com/nvjob/custom-program-weima-th-series-a/blob/master/Images/Briquette%20Press%20(3).jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20a/28/pic/2.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20a/28/pic/5.jpg)
 
 -------------------------------------------------------------------
 
