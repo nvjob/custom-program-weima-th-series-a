@@ -60,10 +60,10 @@ Q2.1 - (optional) Auger for feeding sawdust into the tank.
 -------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov | https://nvjob.github.io
+Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
-GNU General Public License v3.0
+GNU General Public License v3.0 - https://github.com/nvjob/custom-program-weima-th-series-a/blob/master/LICENSE
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.github.io/donate
+Help for this project - https://nvjob.github.io/donate
