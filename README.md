@@ -23,6 +23,10 @@ https://www.youtube.com/watch?v=UAsh35nRsfA
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20a/28/pic/2.jpg)
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20a/28/pic/5.jpg)
 
+### Prerequisites
+For large press with two engines on hydro station <br>
+Siemens S7-200
+
 -------------------------------------------------------------------
 
 #### INPUTS:
