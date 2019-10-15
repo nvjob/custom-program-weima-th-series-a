@@ -66,4 +66,4 @@ Designed by #NVJOB Nicholas Veselov | https://nvjob.pro | http://nvjob.dx.am | h
 GNU General Public License v3.0
 
 ### Donate
-You can thank me by a voluntary donation. https://nvjob.pro/donations.html
+You can thank me by a voluntary donation. https://nvjob.github.io/donate
