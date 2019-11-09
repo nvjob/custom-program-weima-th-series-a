@@ -19,8 +19,6 @@ No encoder is required at the press outlet.
 
 **Program for another Weima briquette press** - https://github.com/nvjob/custom-program-weima-th-series-b
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20a/28/pic/5.jpg)
-
 -------------------------------------------------------------------
 
 ### Prerequisites
@@ -56,6 +54,10 @@ Q0.7 - Horizontal piston, valve, extends the piston. <br>
 Q1.0 - Collet Piston. <br>
 Q1.1 - The small engine of a hydraulic power station. <br>
 Q2.1 - (optional) Auger for feeding sawdust into the tank.
+
+-------------------------------------------------------------------
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/other%20sources/weima%20th%20a/28/pic/5.jpg)
 
 -------------------------------------------------------------------
 
